@@ -2,7 +2,7 @@
 A few of my On themes for [Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox.git)
 
 ## Primera
-[Download](Primera.tar.gz)
+[Download](/raw/main/Primera.tar.gz)
 
 #### Gallery with columns
 ![gallery with columns image](gallery_with_columns.png)
